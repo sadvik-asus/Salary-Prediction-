@@ -111,10 +111,11 @@ B.Tech CSE (AI & ML) | Intern @ AICTE x Edunet | Aspiring AI/Quant Researcher
 
 ## 📬 Contact
 
-📧 amanbasu20@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/amanbasu20/)  
-🔗 [GitHub](https://github.com/AmanBasu20)
+📧 vadlasadvik99@@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/sadvikkumar/)  
+🔗 [GitHub](https://github.com/sadvik-asus)
 
 ---
 
 *Learning in public. Built with curiosity. 🚀*
+*Test your Limits 🤗*
