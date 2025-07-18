@@ -68,7 +68,6 @@ This ML-powered web app allows users to input various employee attributes and pr
 ## 🌐 Live App Demo
 
 👉 [Try it on Streamlit](https://sadvik-employee-salary-prediction.streamlit.app/)  
-_(Replace the URL above after deploying on Streamlit Cloud)_
 
 ---
 
@@ -105,7 +104,7 @@ employee-salary-prediction/
 ## 🙋‍♂️ About Me
 
 V. Sadvik Kumar
-B.Tech CSE (AI & ML) | Intern @ AICTE x Edunet | Aspiring AI/Quant Researcher
+B.Tech CSE (AI & ML) | Intern @ AICTE x Edunet 
 
 ---
 
