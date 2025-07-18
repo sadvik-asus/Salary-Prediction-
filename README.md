@@ -67,7 +67,7 @@ This ML-powered web app allows users to input various employee attributes and pr
 
 ## 🌐 Live App Demo
 
-👉 [Try it on Streamlit](https://yourname-employee-salary-prediction.streamlit.app/)  
+👉 [Try it on Streamlit](https://sadvik-employee-salary-prediction.streamlit.app/)  
 _(Replace the URL above after deploying on Streamlit Cloud)_
 
 ---
@@ -76,7 +76,7 @@ _(Replace the URL above after deploying on Streamlit Cloud)_
 
 ### 1. Clone the repository
 
-git clone https://github.com/AmanBasu20/employee-salary-prediction.git
+git clone https://github.com/sadvik-asus/employee-salary-prediction.git
 cd employee-salary-prediction
 
 ### 2. Install the dependencies
@@ -104,14 +104,14 @@ employee-salary-prediction/
 
 ## 🙋‍♂️ About Me
 
-Aman Basu
+V. Sadvik Kumar
 B.Tech CSE (AI & ML) | Intern @ AICTE x Edunet | Aspiring AI/Quant Researcher
 
 ---
 
 ## 📬 Contact
 
-📧 vadlasadvik99@@gmail.com 
+📧 vadlasadvik99@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/sadvikkumar/)  
 🔗 [GitHub](https://github.com/sadvik-asus)
 
